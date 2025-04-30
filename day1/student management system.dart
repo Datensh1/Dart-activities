@@ -122,4 +122,4 @@ void main(){
   Sm.searchStudent(student1,course,"BSIT","Chaewon");
   Sm.ShowStudent(course);
   
-}
+} 
